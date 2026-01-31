@@ -1,8 +1,9 @@
 # swaychat-react-native-chat-app
-![Logo](./screenshots/images/logo.png)
-A fully functional real-time group chat mobile application built with React Native, Node.js, JWT authentication, and MongoDB, intended as a reference project for developers learning these technologies.
 
-![Video](./screenshots/videos/71afaf7fa4cd47d9a2fff9b2b1036699.mov)  
+A fully functional real-time group chat mobile application built with React Native, Node.js, JWT authentication, and MongoDB.  
+This project is intended as a reference implementation for developers learning these technologies.
+
+![🎥 Demo video](./screenshots/videos/71afaf7fa4cd47d9a2fff9b2b1036699.gif)
 
 ## Prerequisites
 
